@@ -1,0 +1,48 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is the typical rental cost for a porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The porta potty rental cost varies based on the type of unit, rental duration, and servicing frequency. We offer competitive and transparent pricing. Please contact us for a personalized quote tailored to your specific needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer long-term rental options for construction projects?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we specialize in long-term porta potty rentals for construction sites, offering flexible contracts and consistent servicing schedules to ensure continuous hygiene and comfort for your crews.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are the porta potty serviced for corporate events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For corporate events, servicing frequency is customized based on event duration, attendance, and unit type. We can arrange for multiple services during longer events to maintain pristine conditions for our VIP porta potty units.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent a porta potty with a handwashing sink inside?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our deluxe porta potty come with an integrated handwashing sink. We also offer separate porta potty handwashing stations for comprehensive hygiene solutions</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I have a porta potty placed inside a building, like a warehouse or garage?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. For two important reasons: our service trucks require direct access to the unit to pump out the tank, and the units require open, outdoor ventilation to function properly and safely.</p>
+                <div class="callalooma mx-auto"><a href="tel:801441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
